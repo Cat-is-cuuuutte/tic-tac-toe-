@@ -1,0 +1,113 @@
+.all{
+    background-color: hsl(218, 76%, 84%);
+}
+table{
+    width: 450px;
+    height: 450px;
+    border-spacing:0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    z-index: 2;
+    border-radius: 5%;
+}
+tr,th{
+    border:3px solid hsl(218, 76%, 84%);
+    border-collapse:collapse;
+    z-index: 2;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+    padding: 0;
+}
+
+
+.masoutput{
+    background-color: hsl(218, 62%, 65%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.maswinner1{
+    color: #000;
+    text-align: center;
+    position:absolute;
+    margin: auto;
+    top:650px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.masbtn1{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn2{
+    width: 142px;
+    height: 138px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn3{
+    width: 142px;
+    height: 138px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn4{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn5{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn6{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn7{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn8{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.masbtn9{
+    width: 142px;
+    height: 142px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
